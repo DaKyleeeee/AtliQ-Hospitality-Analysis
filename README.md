@@ -31,18 +31,25 @@ Monthly Analysis View
 
 Learnt things from this Project
 -Attempted to employ a color palette from Color Hunt and remained consistent with those colors across the entire dashboard
+
 -Gained knowledge on how to effectively utilize page navigation for diverse purposes. For instance, I employed three different icons to achieve page navigations within the dashboard
+
 -Acquired the skills to construct a novel visual representation, specifically a Calendar visual, by utilizing a matrix table. This versatile visual can be employed for various analytical purposes.
 
 Cruical Insights From the Dashboard
 
 -Mumbai generates the largest revenue compare to other three cities, however Delhi has the lowest revenue in among these four cities. (Mumbai, Bangalore, Hyderabad and Delhi)
+
 -Delhi has the highest occupancy rate compare to other three cities 
--Overall, Atliq Exotica property is the best compare to other 6 properties, it has the highest revenue, meet average rate and the lowest cancellation rate.
+
+-Overall, Atliq Exotica property is the best compare to other 6 properties, it has the highest revenue, meet average rate and the lowest cancellation rate
+
 -Most of the clients' booking on weekend than weekday and booking from different various platforms
+
 -AtliQ generates the highest revnue in May compare to June and July
 
 Action Advice to the revenue team of AtliQ
 
 -Contact the mangers of Bangalore, Hyderabad and Delhi to see how can the team can help to improce the revenue
+
 -Make some promotions and discounts on weekday to improve the sales
