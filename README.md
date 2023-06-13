@@ -1,11 +1,9 @@
 AtliQ Hospitality Analysis - PowerBI
 As part of the codebasics september month resume challenge, I have worked on this analysis project.
 
-Link to the Challenge
+Link to the Challenge https://codebasics.io/challenge/codebasics-resume-project-challenge/4
 
-Link to Interactive Dashboard
-
-Link to Presentation Video
+Link to Interactive Dashboard https://www.novypro.com/project/atliq-hospitality-analysis-3
 
 Problem statement
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
@@ -37,6 +35,7 @@ Learnt things from this Project
 3.Acquired the skills to construct a novel visual representation, specifically a Calendar visual, by utilizing a matrix table. This versatile visual can be employed for various analytical purposes.
 
 Cruical Insights From the Dashboard
+
 1.Mumbai generates the largest revenue compare to other three cities, however Delhi has the lowest revenue in among these four cities. (Mumbai, Bangalore, Hyderabad and Delhi)
 2.Delhi has the highest occupancy rate compare to other three cities 
 3.Overall, Atliq Exotica property is the best compare to other 6 properties, it has the highest revenue, meet average rate and the lowest cancellation rate.
@@ -44,5 +43,6 @@ Cruical Insights From the Dashboard
 5.AtliQ generates the highest revnue in May compare to June and July
 
 Action Advice to the revenue team of AtliQ
+
 1.Contact the mangers of Bangalore, Hyderabad and Delhi to see how can the team can help to improce the revenue
 2.Make some promotions and discounts on weekday to improve the sales
